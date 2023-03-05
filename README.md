@@ -10,6 +10,4 @@ we will first find the networks around us (like how many access points are avai
 
 Reference : 
 https://pypi.org/project/pywifi/
-
-
 https://github.com/awkman/pywifi/blob/master/DOC.md
